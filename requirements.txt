@@ -1,0 +1,7 @@
+flask
+tensorflow
+keras
+numpy
+pillow
+sqlite3
+pickle
